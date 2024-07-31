@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <!-- YOUR ICON PACK NAME -->
+    <string name="app_name">Lively Blue</string>
+
+    <string name="theme_title">Lively Blue</string>
+    <string name="theme_name">Lively Blue</string>
+
+    <string name="theme_author">Harman Thind</string>
+    <string name="developer_name">Harman Thind</string>
+    <string name="developerName">Harman Thind</string>
+    <string name="authorName">Harman Thind</string>
+
+    <string name="authorLink"></string>
+    <string name="developer_link"></string>
+
+    <string name="theme_description">Its an icon pack - Blue</string>
+    <string name="theme_info">Your Icon Pack Description</string>
+    <string name="theme_ad_msg">Your Icon Pack Description</string>
+
+    <string name="theme_feature">feature</string>
+
+    <string name="theme_preview1">preview1</string>
+    <string name="theme_preview2">preview2</string>
+
+    <string name="iconpack">com.htsoft.livelyblue</string>
+
+</resources>
