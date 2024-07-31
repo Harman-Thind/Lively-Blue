@@ -1,11 +1,10 @@
-# CandyBar Sample
+# Lively Blue
 [![JitPack Version](https://jitpack.io/v/zixpo/candybar.svg)](https://jitpack.io/#zixpo/candybar)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/zixpo/candybar-sample/android.yml?branch=main)](https://github.com/zixpo/candybar-sample/actions/workflows/android.yml)
 
-Sample Implementation of CandyBar Dashboard.
+Description...
 
-Read the [Wiki](https://github.com/zixpo/candybar-sample/wiki) to get Started.
-
+Icon Pack Dashboard by https://github.com/zixpo
 # License
 ```
 Copyright (c) 2014-2016 Dani Mahardhika
