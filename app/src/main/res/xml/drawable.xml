@@ -2,25 +2,13 @@
 <resources>
     <version>1</version>
 
-    <category title="Misc" />
-    <item drawable="_0" />
-    <item drawable="_1" />
-    <item drawable="_1111" />
-    <item drawable="_1dm" />
-    <item drawable="_2" />
-    <item drawable="_3" />
-    <item drawable="_4" />
-    <item drawable="_5" />
-    <item drawable="_6" />
-    <item drawable="_7" />
-    <item drawable="_8" />
-    <item drawable="_9" />
     <category title="A" />
     <item drawable="a" />
     <item drawable="action_launcher" />
     <item drawable="activity_launcher" />
     <item drawable="activity_manager" />
     <item drawable="adm" />
+    <item drawable="adobe_acrobat" />
     <item drawable="adobe_ca" />
     <item drawable="adobe_cp" />
     <item drawable="adobe_photoshop_express" />
@@ -38,12 +26,14 @@
     <item drawable="apk_phaser" />
     <item drawable="apktool_m" />
     <item drawable="appbar" />
+    <item drawable="aruler" />
     <item drawable="assistant" />
     <item drawable="audiofx" />
     <category title="B" />
     <item drawable="b" />
     <item drawable="binance" />
     <item drawable="bitdefender_vpn" />
+    <item drawable="bitget" />
     <item drawable="bloons_td_6" />
     <item drawable="bloonstd_1" />
     <item drawable="bloonstd_2" />
@@ -52,18 +42,19 @@
     <item drawable="bloonstd_5" />
     <item drawable="bloonstd_battles" />
     <item drawable="brave" />
+    <item drawable="bt_safe" />
     <category title="C" />
     <item drawable="c" />
     <item drawable="caffeine" />
     <item drawable="calculator" />
     <item drawable="calendar" />
     <item drawable="camera" />
+    <item drawable="chatgpt" />
     <item drawable="chrome" />
+    <item drawable="cineplex" />
     <item drawable="clash_of_clans" />
+    <item drawable="classroom" />
     <item drawable="clock" />
-    <item drawable="clock_bg" />
-    <item drawable="clock_hour" />
-    <item drawable="clock_minute" />
     <item drawable="color_picker" />
     <item drawable="contacts" />
     <item drawable="cred" />
@@ -102,12 +93,10 @@
     <category title="H" />
     <item drawable="h" />
     <item drawable="hdfc_bank" />
-    <item drawable="home_image" />
     <item drawable="hotstar" />
     <item drawable="huawei_health" />
     <category title="I" />
     <item drawable="i" />
-    <item drawable="ic_splash_screen" />
     <item drawable="idm" />
     <item drawable="imdb" />
     <item drawable="instagram" />
@@ -148,7 +137,6 @@
     <item drawable="myjio" />
     <category title="N" />
     <item drawable="n" />
-    <item drawable="nav_head" />
     <category title="O" />
     <item drawable="o" />
     <item drawable="onegallery" />
@@ -167,7 +155,6 @@
     <item drawable="play_store" />
     <item drawable="pluma" />
     <item drawable="price_histore" />
-    <item drawable="profile_picture" />
     <item drawable="pspcl" />
     <category title="Q" />
     <item drawable="q" />
@@ -222,5 +209,19 @@
     <item drawable="yt_studio" />
     <category title="Z" />
     <item drawable="z" />
+
+    <category title="Misc" />
+    <item drawable="_0" />
+    <item drawable="_1" />
+    <item drawable="_1111" />
+    <item drawable="_1dm" />
+    <item drawable="_2" />
+    <item drawable="_3" />
+    <item drawable="_4" />
+    <item drawable="_5" />
+    <item drawable="_6" />
+    <item drawable="_7" />
+    <item drawable="_8" />
+    <item drawable="_9" />
 
 </resources>
