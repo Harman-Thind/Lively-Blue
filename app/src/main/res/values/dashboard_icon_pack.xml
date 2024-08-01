@@ -15,9 +15,9 @@
     <string name="authorLink"></string>
     <string name="developer_link"></string>
 
-    <string name="theme_description">Its an icon pack - Blue</string>
-    <string name="theme_info">Your Icon Pack Description</string>
-    <string name="theme_ad_msg">Your Icon Pack Description</string>
+    <string name="theme_description">This icon pack is inspired from the material you theming introduced for android devices</string>
+    <string name="theme_info">This icon pack is inspired from the material you theming introduced for android devices</string>
+    <string name="theme_ad_msg">This icon pack is inspired from the material you theming introduced for android devices</string>
 
     <string name="theme_feature">feature</string>
 

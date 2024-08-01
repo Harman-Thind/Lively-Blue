@@ -2,7 +2,7 @@
 <resources>
 
     <!-- Leave empty if you don't want to show changelog date -->
-    <string name="changelog_date">August 04, 2019</string>
+    <string name="changelog_date">August 01, 2024</string>
 
     <!-- Changelog support html formatting
     * <b> for Bold
@@ -10,13 +10,9 @@
     * <u> for Underline
     * <a href="linkUrl">Link Text</a> for links -->
     <string-array name="changelog">
-        <item>First Changelog</item>
-        <item>Second Changelog</item>
-        <item>
-            <![CDATA[
-            Formatted Changelog with <u>Underline</u>, <b>Bold</b>, <i>Italic</i> and <a href="https://your.link.here">Link</a>.
-            ]]>
-        </item>
+        <item>This is the first build of Lively Blue</item>
+        <item>This build includes 180+ icons in total</item>
+        <item>Icon pack is currently under development phase so there will be frequent updates, check out our GitHub for latest releases</item>
     </string-array>
 
 </resources>

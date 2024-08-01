@@ -3,7 +3,7 @@ package com.htsoft.livelyblue.applications;
 import androidx.annotation.NonNull;
 
 // TODO: Remove `//` below to enable OneSignal
-//import com.onesignal.OneSignal;
+import com.onesignal.OneSignal;
 
 import com.htsoft.livelyblue.R;
 
@@ -12,14 +12,14 @@ import candybar.lib.applications.CandyBarApplication;
 public class CandyBar extends CandyBarApplication {
 
     // TODO: Remove `/*` and `*/` below to enable OneSignal
-    /*
+
     @Override
     public void onCreate() {
         super.onCreate();
         // OneSignal Initialization
-        OneSignal.initWithContext(this, "YOUR_ONESIGNAL_APP_ID");
+        OneSignal.initWithContext(this, "a99ae864-eb16-45f6-8ba5-62b5512383fd");
     }
-    */
+
 
     @NonNull
     @Override
@@ -33,7 +33,7 @@ public class CandyBar extends CandyBarApplication {
         Configuration configuration = new Configuration();
 
         // TODO: Remove `/*` and `*/` below to enable OneSignal
-        /*
+
         configuration.setNotificationEnabled(true, (isEnable) -> {
             if (isEnable) {
                 OneSignal.getUser().getPushSubscription().optIn();
@@ -41,7 +41,7 @@ public class CandyBar extends CandyBarApplication {
                 OneSignal.getUser().getPushSubscription().optOut();
             }
         });
-        */
+        
 
         configuration.setGenerateAppFilter(true);
         configuration.setGenerateAppMap(true);

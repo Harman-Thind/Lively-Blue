@@ -10,7 +10,7 @@ android {
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
         versionCode 1
-        versionName '1.0'
+        versionName '0.1'
 
         // Naming app bundles
         setArchivesBaseName("${parent.name}-v${versionCode}")
@@ -53,7 +53,7 @@ dependencies {
     implementation 'com.github.zixpo:candybar:3.20.2'
 
     // TODO: Remove `//` below to enable OneSignal
-    //implementation 'com.onesignal:OneSignal:[5.0.0, 5.99.99]'
+    implementation 'com.onesignal:OneSignal:[5.0.0, 5.99.99]'
 }
 
 // Code for automatically copying appfilter.xml and drawable.xml
